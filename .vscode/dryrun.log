@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/vanja/Desktop/OS/III_domaći_2023/OS-xv6_V3'
+ 
+tools/mkfs fs.img README user/_cat user/_echo user/_forktest user/_grep user/_init user/_kill user/_ln user/_ls user/_mkdir user/_rm user/_sh user/_stressfs user/_usertests user/_wc user/_zombie user/_dalle user/_liSa user/_coMMa 
+make: Leaving directory '/home/vanja/Desktop/OS/III_domaći_2023/OS-xv6_V3'
+ 
